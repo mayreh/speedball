@@ -1,0 +1,19 @@
+.is-ddark {
+  background-color: #333;
+  color: #eee;
+}
+
+.has-text-white {
+  color: #fff;
+}
+
+.fb_iframe_widget {
+  vertical-align: top;
+}
+
+#twitter-widget-0 {
+  vertical-align: bottom;
+}
+
+body {
+}
