@@ -17,3 +17,11 @@
 
 body {
 }
+
+#google-play img {
+  width: 160px;
+}
+
+#app-store {
+  margin-left: 30px;
+}
